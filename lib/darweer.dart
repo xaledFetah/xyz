@@ -21,7 +21,7 @@ class draweer extends StatelessWidget {
                   borderRadius: BorderRadius.only(
                     topRight: Radius.circular(16),
                   ),
-                  color: Colors.pink[100],
+                  color: Colors.pink[50],
                 ),
                 currentAccountPicture: ClipRRect(
                     borderRadius: BorderRadius.circular(50),
